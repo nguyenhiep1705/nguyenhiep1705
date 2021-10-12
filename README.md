@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nguyenhiep1705
-- 👀 I’m interested in making games
+- 👋 Hi, I’m @nguyenhiep
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
